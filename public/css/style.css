@@ -1,0 +1,37 @@
+/* public/css/style.css */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #333;
+}
+
+header {
+    background-color: #a77c08;
+    color: white;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+table, td, td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+table{
+    width: 50%;
+    height: 70 px;
+}
